@@ -1,0 +1,7 @@
+[submodule "Aura-Firmware"]
+	path = Aura-Firmware
+	url = https://github.com/yasanthaniroshan/Aura-Firmware
+
+[submodule "Aura-Backend"]
+	path = Aura-Backend
+	url = https://github.com/yasanthaniroshan/Aura-Backend.git
